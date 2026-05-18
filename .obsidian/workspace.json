@@ -25,14 +25,12 @@
             "id": "926e91a7d2273fe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "git thar test.md",
-                "mode": "source",
-                "source": false
+                "file": "virtual_address.jpg"
               },
-              "icon": "lucide-file",
-              "title": "git thar test"
+              "icon": "lucide-image",
+              "title": "virtual_address"
             }
           }
         ],
@@ -227,8 +225,8 @@
   },
   "active": "926e91a7d2273fe1",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "git thar test.md",
+    "Untitled 2.md",
     "virtual_address.jpg",
     "computer laws.md",
     "compiler.md",
