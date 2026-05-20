@@ -11,10 +11,14 @@
             "id": "f04e737ba2a0f1a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Address/Address Binding.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Address Binding"
             }
           }
         ]
@@ -206,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "311d7e120d4cfdde",
+  "active": "f04e737ba2a0f1a5",
   "lastOpenFiles": [
+    "Address/Address.md",
     "git thar test.md",
     "Untitled 2.md",
     "virtual_address.jpg",
@@ -233,7 +238,6 @@
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
     "Types of Address.md",
-    "Address/Address.md",
     "Address/Address Definition.md",
     "Address/Addressing Techniques.md",
     "Address/Addressing Concepts.md",
